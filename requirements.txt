@@ -1,0 +1,8 @@
+openai-whisper
+GPUtil
+numpy
+sounddevice
+librosa
+soundfile
+pydub
+ffmpeg-python
